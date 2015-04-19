@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tugas3</string>
+
+    <string name="inggris">lets go</string>
+    <string name="indonesia">ayo pergi</string>
+    <string name="btn_inggris">Translate</string>
+    <string name="btn_indonesia">Terjemahkan</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
